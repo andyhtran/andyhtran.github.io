@@ -137,8 +137,9 @@ footer {
     
     .homeBanner {
         background-image: url("../images/andyBerlin.jpg");
-        height: 500px;
+        /* height: 500px; */
         background-size: cover;
+        /* background-size: 150px; */
         background-repeat: no-repeat;
         /* background-position: 50% 50%; */
         background-attachment: fixed;

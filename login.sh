@@ -1,0 +1,1 @@
+ssh -i "/Users/andytran/Documents/secureFolder/personal-website.pem" ec2-user@ec2-3-140-196-83.us-east-2.compute.amazonaws.com
